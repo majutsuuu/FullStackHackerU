@@ -1,5 +1,5 @@
 # FullStackHackerU
- ## שימוש שתכנולוגיות של
+ ## שימוש שטכנולוגיות כגון
 </br>
 ASP .NET</br>
 SQLServer</br>
