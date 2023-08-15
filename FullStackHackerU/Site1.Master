@@ -5,6 +5,7 @@
 <html>
 <head runat="server">
     <title></title>
+<link rel="shortcut icon" type="image/x-icon" href="~/imgs/favicon.jpg" />
         <%--CSS--%>
     <link href="bootstrap/css/cdn.jsdelivr.net_npm_bootstrap@4.3.1_dist_css_bootstrap.min.css" rel="stylesheet" />
     <link href="datatables/css/cdn.datatables.net_1.13.6_css_jquery.dataTables.min.css" rel="stylesheet" />
