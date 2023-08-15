@@ -1,5 +1,5 @@
 # ELibrary-ASPNET
- ## שימוש שטכנולוגיות כגון
+ ## שימוש בטכנולוגיות כגון
 </br>
 ASP .NET</br>
 SQLServer</br>
