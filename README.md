@@ -1,5 +1,5 @@
 # FullStackHackerU
- ##שימוש שתכנולוגיות של
+ ## שימוש שתכנולוגיות של
 </br>
 ASP .NET</br>
 SQLServer</br>
