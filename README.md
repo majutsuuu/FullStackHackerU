@@ -1,4 +1,13 @@
 # FullStackHackerU
+##שימוש שתכנולוגיות של
+ASP .NET</br>
+SQLServer</br>
+React</br>
+Bootstrap</br>
+Fontawesome</br>
+Datatables</br>
+
+
 
 ## מידע כללי
 שם מלא: שמואל זיסקוביץ
